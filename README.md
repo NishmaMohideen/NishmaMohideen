@@ -33,9 +33,9 @@ I have hands-on experience in **Quality Assurance (QA)** and **Manual Testing**,
 ---
 
 ### 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/nishma-mohideen-72a28a1b9/) *(add your link here)*  
-- ✉️ Email: *(your email here)*  
+- [LinkedIn](https://www.linkedin.com/in/nishma-mohideen-72a28a1b9/)  
+- ✉️ Email: nx.shu2000@gmail.com
 
 ---
 
-⚡ *“I break things before users do — ensuring quality, reliability, and trust in every product I test.”*  
+⚡ “I break things before users do — ensuring quality, reliability, and trust in every product I test.”
